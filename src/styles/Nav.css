@@ -1,0 +1,28 @@
+.nav{
+    color:aliceblue;
+    /* background-color: black; */
+
+}
+
+a {
+    text-decoration: none;
+    color: #FDF8F5;
+  }
+
+li {
+    display: inline;
+    padding: 0px 20px;
+    text-decoration: none;
+  }
+
+  .jumbotron{
+    background-color: rgb(27, 27,81);
+    color:aliceblue;
+}
+
+.contact{
+    background-color: rgb(27, 27, 81);
+    color:aliceblue;
+    text-align: center;
+
+}
