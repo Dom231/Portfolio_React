@@ -1,5 +1,5 @@
 import React from 'react';
-
+import '../styles/Prof.css';
 export default function Portfolio(){
     return (
         <div class = "row">

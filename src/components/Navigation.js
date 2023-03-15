@@ -25,9 +25,10 @@ function Navbar() {
   <h1 class="display-3">Dominc Teran's Portfolio</h1>
   <nav class = "nav">
     <ul>
-        <li> <a href="#about">about me</a></li>
-        <li> <a href="#myWork">Previous Work</a></li>
-        <li> <a href="#contact">Contact</a></li>
+        <li> <a href="#about">About Me</a></li>
+        <li> <a href="#Portfoli">Previous Work</a></li>
+        <li> <a href="#Resume">Resume</a></li>
+        <li> <a href="#Contact">Contact</a></li>
     </ul>
   </nav>
 </header>   

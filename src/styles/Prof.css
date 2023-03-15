@@ -1,0 +1,29 @@
+.myWork{
+    background-color:rgb(245, 245, 246) ;
+    color:rgb(12, 12, 12);
+    /* margin: 10px */
+  }
+
+  .movN{
+    background-color:rgb(27, 27, 81) ;
+    color:aliceblue;
+     margin: 20px; 
+    /* margin-top: 5px;
+    margin-bottom: 5px;
+     margin-right: 20px; 
+    margin-left: 5px; */
+   
+    text-align: center;
+  }
+
+  .movNi{
+    background-color:rgb(240, 240, 245) ;
+    color:rgb(7, 8, 8);
+     margin: 20px; 
+    /* margin-top: 5px;
+    margin-bottom: 5px;
+     margin-right: 20px; 
+    margin-left: 5px; */
+   
+    text-align: center;
+  }
