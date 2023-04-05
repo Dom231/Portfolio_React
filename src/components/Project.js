@@ -42,6 +42,24 @@ export default function Portfolio(){
           
 
       </div>
+
+      <div class="movN row ">
+          <div>
+              <h3>Project Title: Fitness Meal Planner </h3>
+              <li><a href="https://github.com/Dom231/Fitness_Meal-Plan.git">Github Repo</a></li> 
+              <li><a href="https://meal-planer231.herokuapp.com/">herokuapp Page (Out Of Service)</a></li> 
+              <h4>Description:</h4>
+              <p>Worked in a group to create a Full-Stack-Webapplicaton that allows the user to create a Meal plan for a single page. This applicatioin will allow the user to log-in/sign-up; Once logged in, the user is allowed to calculate their macros, by using the calculator link. The user is allowed to select meals from the Meal Plan page, once the user has selected a meal for: Breakfast, Lunch, and Dinner, the Meal plan is added and displayed on to the user's profile 
+      
+              </p>
+              <h4>Primary Role:</h4>
+              <li>Gql set up and Log-in functionality </li>
+
+
+          </div>
+          
+
+      </div>
         
         
         
